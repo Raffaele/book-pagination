@@ -1,0 +1,14 @@
+.book-page {
+    &__header {
+        text-align: center;
+        background-color: gray;
+        padding: 5px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        color: white;
+    }
+    &__list-item {
+        padding-bottom: 4px;
+        margin-bottom: 4px;
+    }
+}
